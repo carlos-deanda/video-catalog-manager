@@ -1,4 +1,5 @@
 #include "OOPUtils.h"
+#include <limits>
 
 void OOPUtils::staticTest() {
     std::cout << "DOING STUFF IN A STATIC METHOD!" << std::endl;
