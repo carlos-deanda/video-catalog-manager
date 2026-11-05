@@ -1,4 +1,4 @@
-# ES CINE — Video Catalog (C++ Console App)
+# Video Catalog Manager (C++ Console App)
 
 A console program written in C++ for an Object-Oriented Programming course (Tec de Monterrey, 2025). It loads a catalog of 50 movies and series episodes from a text file and lets the user rate titles and filter the catalog.
 
